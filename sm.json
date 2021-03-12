@@ -1,0 +1,9 @@
+{
+  "apiEndpoint": "https://api.slicemachine.dev/2020-10-27",
+  "libraries": [
+    "@/slices",
+    "vue-essential-slices"
+  ],
+  "_latest": "0.0.44",
+  "storybook": "http://localhost:3003"
+}

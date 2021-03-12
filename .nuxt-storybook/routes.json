@@ -1,0 +1,36 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/home/emmanuel/kaokeb/scaleblog/.nuxt-storybook/prismic/pages/preview.vue",
+    "_name": "_ea24da02"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/emmanuel/kaokeb/scaleblog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cfcb13ec"
+  },
+  {
+    "name": "lang",
+    "path": "/:lang",
+    "component": "/home/emmanuel/kaokeb/scaleblog/pages/_lang/index.vue",
+    "chunkName": "pages/_lang/index",
+    "_name": "_30ecf148"
+  },
+  {
+    "name": "uid",
+    "path": "/:uid",
+    "component": "/home/emmanuel/kaokeb/scaleblog/pages/_uid.vue",
+    "chunkName": "pages/_uid",
+    "_name": "_47772e09"
+  },
+  {
+    "name": "lang-uid",
+    "path": "/:lang/:uid",
+    "component": "/home/emmanuel/kaokeb/scaleblog/pages/_lang/_uid.vue",
+    "chunkName": "pages/_lang/_uid",
+    "_name": "_5ce9530b"
+  }
+]
