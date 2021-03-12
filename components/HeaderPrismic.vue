@@ -1,7 +1,7 @@
 <template>
   <header class="site-header">
     <nuxt-link to="./" class="logo">
-      <img src="./../images/logo.png" alt="Facebook social icon" />
+      <img src="./../images/scalinflow.png" alt="Scalinflow icon" />
     </nuxt-link>
     <nav>
       <ul>
